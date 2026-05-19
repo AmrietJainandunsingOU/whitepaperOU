@@ -1,0 +1,9 @@
+CVE,CSS,Severity,EPSS,KEV,VMC
+CVE-2017-1000487,"9,8",Critical,"""0.077980000""",N,Defer
+CVE-2026-24400,"7,3",High,"""0.000080000""",N,Defer
+CVE-2022-4244,"7,5",High,"""0.002660000""",N,Defer
+CVE-2022-4245,"4,3",Medium,"""0.000540000""",N,Defer
+CVE-2021-22096,"4,3",Medium,"""0.002210000""",N,Defer
+CVE-2021-22060,"4,3",Medium,"""0.001930000""",N,Defer
+CVE-2014-3578,"5,3",Medium,"""0.043820000""",N,Defer
+CVE-2018-1199,"5,3",Medium,"""0.015110000""",N,Defer

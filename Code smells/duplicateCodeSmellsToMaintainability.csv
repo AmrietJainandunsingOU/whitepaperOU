@@ -1,0 +1,14 @@
+Dependency,NcssCount,CyclomaticComplexity
+Jakarta validation API,0,2
+Hamcrest,0,0
+SLF4J API Module,1,9
+Gson,4,53
+Clojure,28,171
+Logback Classic Module,2,36
+Mockito Core,3,21
+Joda Time,28,77
+Apache Commons Lang,45,105
+Jackson Databind,24,286
+AssertJ Core,16,30
+Guava,11,115
+Fastjson2 Compatible,332,1050

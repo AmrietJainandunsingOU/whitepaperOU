@@ -1,0 +1,5 @@
+CVE,CSS,Severity,EPSS,KEV,VMC
+CVE-2020-8908,"3,3",Low,"""0.000110000""",N,Defer
+CVE-2023-2976,"5,5",Medium,"""0.000430000""",N,Defer
+CVE-2023-3635,"5,9",Medium,"""0.004170000""",N,Defer
+CVE-2022-25647,"7,7",High,"""0.021050000""",N,Defer
