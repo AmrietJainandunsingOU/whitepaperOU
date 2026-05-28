@@ -1,4 +1,4 @@
-CVE,CSS,Severity,EPSS,KEV,VMC
+CVE,CVSS,Severity,EPSS,KEV,VMC
 CVE-2017-1000487,"9,8",Critical,"""0.077980000""",N,Defer
 CVE-2026-24400,"7,3",High,"""0.000080000""",N,Defer
 CVE-2022-4244,"7,5",High,"""0.002660000""",N,Defer

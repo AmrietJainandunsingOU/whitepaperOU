@@ -1,4 +1,4 @@
-CVE,CSS,Severity,EPSS,KEV,VMC
+CVE,CVSS,Severity,EPSS,KEV,VMC
 CVE-2015-4852,"9,8",Critical,"""0.928490000""",Yes,Critical priority
 CVE-2025-24813,"9,8",Critical,"""0.941830000""",Yes,Critical priority
 CVE-2023-44487,"7,5",High,"""0.943560000""",Yes,Critical priority

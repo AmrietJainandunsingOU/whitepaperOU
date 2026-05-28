@@ -1,4 +1,4 @@
-CVE,CSS,Severity,EPSS,KEV,VMC
+CVE,CVSS,Severity,EPSS,KEV,VMC
 CVE-2018-18928,"9,8",Critical,"""0.021030000""",N,Defer
 CVE-2023-26119,"9,8",Critical,"""0.046900000""",N,Defer
 CVE-2025-46295,"9,8",Critical,"""0.003630000""",N,Defer

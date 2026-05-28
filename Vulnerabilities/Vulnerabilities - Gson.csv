@@ -1,4 +1,4 @@
-CVE,CSS,Severity,EPSS,KEV,VMC
+CVE,CVSS,Severity,EPSS,KEV,VMC
 CVE-2020-8908,"3,3",Low,"""0.000110000""",N,Defer
 CVE-2023-2976,"5,5",Medium,"""0.000430000""",N,Defer
 CVE-2023-3635,"5,9",Medium,"""0.004170000""",N,Defer

@@ -1,4 +1,4 @@
-CVE,CSS,Severity,EPSS,KEV,VMC
+CVE,CVSS,Severity,EPSS,KEV,VMC
 CVE-2026-1225,5,Medium,"""0.000110000""",N,Defer
 CVE-2026-24400,"7,3",High,"""0.000080000""",N,Defer
 CVE-2025-7962,"7,5",High,"""0.000100000""",N,Defer
